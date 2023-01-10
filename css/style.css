@@ -329,7 +329,7 @@ body{
     }
     .menu__nav {
 
-        left: calc(50px + (747 - 50) * ((100vw - 320px) / (1440 - 320)));   
+        left: calc(30px + (747 - 30) * ((100vw - 320px) / (1440 - 320)));   
     }
     .conteiner {
         padding: 0px 15px 0px 15px;
